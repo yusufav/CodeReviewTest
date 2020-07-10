@@ -15,3 +15,6 @@ regular code.
 regular code.
 good code.
 better code.
+bad code
+bad code
+bad code
